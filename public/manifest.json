@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Datapizza Extension",
+  "version": "1.0.0",
+  "description": "A datapizza extension to easily fill forms to apply to jobs",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}
